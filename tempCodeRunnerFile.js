@@ -1,0 +1,1 @@
+else{responseDiv.textContent = "You entered: " + query;}
